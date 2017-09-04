@@ -1,6 +1,6 @@
 {
-  "name": "loopback-component-current-user",
-  "version": "1.0.0",
+  "name": "loopback-component-currentuser",
+  "version": "1.0.1",
   "description": "loopback3 component currenUser",
   "main": "index.js",
   "scripts": {
