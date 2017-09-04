@@ -1,0 +1,25 @@
+{
+  "name": "loopback-component-current-user",
+  "version": "1.0.0",
+  "description": "loopback3 component currenUser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "guanbo",
+  "license": "ISC",
+  "dependencies": {},
+  "peerDependencies": {
+    "loopback": "^3.11.1"
+  },
+  "devDependencies": {
+    "mocha": "^3.5.0"
+  },
+  "keywords": [
+    "loopback",
+    "component",
+    "current",
+    "user",
+    "lb3"
+  ]
+}
